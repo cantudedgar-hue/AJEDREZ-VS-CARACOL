@@ -1,3 +1,4 @@
+//Memorizandum de actualizar la UX/UI
 
 (() => {
   'use strict';
